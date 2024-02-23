@@ -36,8 +36,8 @@ This project uses the following:
 - Step 8: The project should open up on QtCreator
 
 ### Post Installation and Setup
-Step 1: After opening the project click on the Hammer button in the bottom left of the application to bulid the project.  
-Step 2: After clicking on the Hammer to bulid the project you can now Run the project by clicking on the play button.
+- Step 1: After opening the project click on the Hammer button in the bottom left of the application to bulid the project.  
+- Step 2: After clicking on the Hammer to bulid the project you can now Run the project by clicking on the play button.
 
 ## Implementation Details
 ### Design Patterns Used
@@ -48,10 +48,10 @@ Step 2: After clicking on the Hammer to bulid the project you can now Run the pr
 This project is licensed under the MIT License - see the LICENSE.md file for detail
 
 ## Authors
-- Vincent Bossert
+Vincent Bossert
 
 ## Author Note
-- This project was done for one of my assignments for my Advance Programming Course so I am still learning. Any constructive advice is welcome!
+This project was done for one of my assignments for my Advance Programming Course so I am still learning. Any constructive advice is welcome!
 
 
 
