@@ -1,0 +1,1 @@
+# Qt-Corner-Store-Stock-Manager
