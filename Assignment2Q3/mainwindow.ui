@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>572</width>
+    <height>473</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QListView" name="listView">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>571</width>
+      <height>431</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>572</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="stockMenu">
+    <property name="title">
+     <string>Stock</string>
+    </property>
+    <addaction name="actionAddStockItem"/>
+   </widget>
+   <widget class="QMenu" name="listMenu">
+    <property name="title">
+     <string>List</string>
+    </property>
+    <addaction name="actionConfectioneryList"/>
+    <addaction name="actionReadingMaterialList"/>
+   </widget>
+   <widget class="QMenu" name="menuXML">
+    <property name="title">
+     <string>XML</string>
+    </property>
+    <addaction name="actionWriteToXML"/>
+   </widget>
+   <addaction name="stockMenu"/>
+   <addaction name="listMenu"/>
+   <addaction name="menuXML"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionAddStockItem">
+   <property name="text">
+    <string>Add Stock Item</string>
+   </property>
+  </action>
+  <action name="actionConfectioneryList">
+   <property name="text">
+    <string>Confectionery List</string>
+   </property>
+  </action>
+  <action name="actionReadingMaterialList">
+   <property name="text">
+    <string>Reading Material List</string>
+   </property>
+  </action>
+  <action name="actionWriteToXML">
+   <property name="text">
+    <string>Write to XML</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
