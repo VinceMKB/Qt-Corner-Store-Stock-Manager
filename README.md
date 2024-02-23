@@ -26,14 +26,14 @@ This project uses the following:
 
 ### Installation and Setup
 
-Step 1: Download the zippped folder for this project. Navigate to the location of the zipped (compressed) folder using File Explorer.  
-Step 2: Right-click on the zipped folder, then select "Extract All..." from the context menu.  
-Step 3:In the dialog that appears, choose where you want the extracted files to be placed. By default, Windows will suggest extracting them to a folder with the same name as the zipped file, in the same location.  
-Step 4: Click the "Extract" button to start the extraction process. Once it's done, you can open the destination folder to access the extracted files.
-Step 5: Open QtCreator and click on 'Open Project'
-Step 6: Navigate to the extracted file named 'Assignment2Q3' and locate the file called 'CMakeLists'
-Step 7: Click on 'CMakeLists' file and click 'Open'
-Step 8: The project should open up on QtCreator
+- Step 1: Download the zippped folder for this project. Navigate to the location of the zipped (compressed) folder using File Explorer.  
+- Step 2: Right-click on the zipped folder, then select "Extract All..." from the context menu.  
+- Step 3:In the dialog that appears, choose where you want the extracted files to be placed. By default, Windows will suggest extracting them to a folder with the same name as the zipped file, in the same location.  
+- Step 4: Click the "Extract" button to start the extraction process. Once it's done, you can open the destination folder to access the extracted files.
+- Step 5: Open QtCreator and click on 'Open Project'
+- Step 6: Navigate to the extracted file named 'Assignment2Q3' and locate the file called 'CMakeLists'
+- Step 7: Click on 'CMakeLists' file and click 'Open'
+- Step 8: The project should open up on QtCreator
 
 ### Post Installation and Setup
 Step 1: After opening the project click on the Hammer button in the bottom left of the application to bulid the project.  
