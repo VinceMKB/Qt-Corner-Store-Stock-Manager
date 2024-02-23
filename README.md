@@ -16,6 +16,14 @@ This GUI application was an assignment for an Advanced Programming Course, showc
 ## GUI and XML Menu Screenshots
 ![GUI_ScreenShot](https://github.com/VinceMKB/Qt-Corner-Store-Stock-Manager/assets/155303838/9b527f8b-e90a-400b-a349-e62f81423ab4)
 
+### How To USE
+#### Adding Stock: 
+- To add stock to the list/display you click on the 'Stock' menu then click on the 'Add Stock Item'. A Dialog will pop up. Choosing a Stock type will decide what data will be displayed or added to the list. Once all the data is filled in click on 'Add' button. Then the Dialog will close and the data will be displayed.
+#### Picking the Stock Type to be displayed:
+- To pick which stock type that is displayed, click on the 'List' menu. Then to display confectionery list click on the 'Confectionery List' and Then to display reading material list click on the 'Reading Material List'
+#### Save the list of data to XML file:
+- To save the list of ata to XML file, click on the 'XML' menu. Then click on the 'Write to XML'
+
 ## Getting Started
 ### Dependencies
 
