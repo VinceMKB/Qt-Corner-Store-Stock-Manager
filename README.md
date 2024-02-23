@@ -11,10 +11,10 @@ This GUI application was an assignment for an Advanced Programming Course, showc
 - Data persistence using QXMLStreamWriter.
 
 ## UML Diagram
-![StockManager_UML_Diagram](https://github.com/VinceMKB/Qt-Corner-Store-Stock-Manager/assets/155303838/be1eaf6d-c9af-44ac-b484-778f52d9bd04)
+![StockManager_UML_Diagram](https://github.com/VinceMKB/Qt-Corner-Store-Stock-Manager/assets/155303838/0e966409-e1fd-44fe-b189-0b706be31ba7)
 
 ## GUI and XML Menu Screenshots
-![GUI_ScreenShot](https://github.com/VinceMKB/Qt-Corner-Store-Stock-Manager/assets/155303838/0973b15e-95e2-4292-9c03-39d3339944fe)
+![GUI_ScreenShot](https://github.com/VinceMKB/Qt-Corner-Store-Stock-Manager/assets/155303838/9b527f8b-e90a-400b-a349-e62f81423ab4)
 
 ## Getting Started
 ### Dependencies
